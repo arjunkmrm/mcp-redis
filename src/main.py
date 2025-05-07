@@ -15,7 +15,7 @@ import tools.stream
 import tools.pub_sub
 from common.config import MCP_TRANSPORT
 
-
+# test update
 class RedisMCPServer:
     def __init__(self):
         print("Starting the RedisMCPServer", file=sys.stderr)
