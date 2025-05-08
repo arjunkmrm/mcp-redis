@@ -17,7 +17,6 @@ from common.config import MCP_TRANSPORT
 
 # test update
 # another test update
-# test github webhook - one more, one more
 class RedisMCPServer:
     def __init__(self):
         print("Starting the RedisMCPServer", file=sys.stderr)
